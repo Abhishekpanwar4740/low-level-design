@@ -1,0 +1,5 @@
+package com.example.demo.flyWeightPattern;
+
+public interface IRobot {
+    public void display(int x,int y);
+}
