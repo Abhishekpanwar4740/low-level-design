@@ -1,4 +1,6 @@
 package com.example.practice.walletsystem.dto;
 
-public class OrderEnum {
+public enum OrderEnum {
+    ASC,
+    DESC;
 }

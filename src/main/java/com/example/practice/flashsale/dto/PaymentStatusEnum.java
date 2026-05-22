@@ -1,4 +1,8 @@
 package com.example.practice.flashsale.dto;
 
-public class PaymentStatusEnum {
+public enum PaymentStatusEnum {
+    INITIATED,
+    SUCCESS,
+    FAILED,
+    TIMEOUT;
 }

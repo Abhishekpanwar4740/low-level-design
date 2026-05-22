@@ -1,4 +1,7 @@
 package com.example.practice.flashsale.dto;
 
-public class OrderStatusEnum {
+public enum OrderStatusEnum {
+    RESERVED,
+    EXPIRED,
+    CONFIRMED;
 }

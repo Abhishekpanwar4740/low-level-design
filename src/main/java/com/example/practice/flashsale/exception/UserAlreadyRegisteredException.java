@@ -1,4 +1,7 @@
 package com.example.practice.flashsale.exception;
 
-public class UserAlreadyRegisteredException {
+public class UserAlreadyRegisteredException extends RuntimeException{
+    public UserAlreadyRegisteredException(String message) {
+        super(message);
+    }
 }

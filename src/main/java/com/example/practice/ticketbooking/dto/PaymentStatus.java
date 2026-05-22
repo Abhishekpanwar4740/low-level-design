@@ -1,4 +1,8 @@
 package com.example.practice.ticketbooking.dto;
 
-public class PaymentStatus {
+public enum PaymentStatus {
+    PENDING,
+    COMPLETED,
+    FAILED,
+    REFUNDED;
 }

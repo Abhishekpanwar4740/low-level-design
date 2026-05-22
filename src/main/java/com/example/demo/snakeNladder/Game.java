@@ -27,7 +27,7 @@ public class Game {
         playerList.add(player2);
     }
 
-    public void startGame() {
+    public void  startGame() {
         while (winner == null) {
             Player playerTurn = findPlayerTurn();
             System.out.println("player turn is:" + playerTurn.id + " current position is: " + playerTurn.currentPos);
@@ -39,7 +39,6 @@ public class Game {
             System.out.println("player turn is:" + playerTurn.id + " new Position is: " + playerNewPosition);
             //check for winning condition
             if (playerNewPosition >= board.cells.length * board.cells.length - 1) {
-
                 winner = playerTurn;
             }
 

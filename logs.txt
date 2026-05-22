@@ -1,0 +1,36 @@
+1000 [INFO] Server started
+1050 [DEBUG] Initializing DB connection
+2000 [ERROR] DB connection failed
+2500 [WARN] Retrying DB connection
+1779036339243 [INFO] App heartbeat 0
+1779036342256 [INFO] App heartbeat 1
+1779036345260 [INFO] App heartbeat 2
+1779036348270 [INFO] App heartbeat 3
+1779036351279 [INFO] App heartbeat 4
+1000 [INFO] Server started
+1050 [DEBUG] Initializing DB connection
+2000 [ERROR] DB connection failed
+2500 [WARN] Retrying DB connection
+1779036599488 [INFO] App heartbeat 0
+1779036602516 [INFO] App heartbeat 1
+1779036605527 [INFO] App heartbeat 2
+1779036608537 [INFO] App heartbeat 3
+1779036611541 [INFO] App heartbeat 4
+1000 [INFO] Server started
+1050 [DEBUG] Initializing DB connection
+2000 [ERROR] DB connection failed
+2500 [WARN] Retrying DB connection
+1779037324036 [INFO] App heartbeat 0
+1779037327052 [INFO] App heartbeat 1
+1779037330066 [INFO] App heartbeat 2
+1779037333080 [INFO] App heartbeat 3
+1779037336092 [INFO] App heartbeat 4
+1000 [INFO] Server started
+1050 [DEBUG] Initializing DB connection
+2000 [ERROR] DB connection failed
+2500 [WARN] Retrying DB connection
+1779037595443 [INFO] App heartbeat 0
+1779037598467 [INFO] App heartbeat 1
+1779037601477 [INFO] App heartbeat 2
+1779037604484 [INFO] App heartbeat 3
+1779037607494 [INFO] App heartbeat 4

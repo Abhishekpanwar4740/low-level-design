@@ -1,6 +1,6 @@
 package com.example.practice.walletsystem.dto;
 
-public enum TransanctionStatusEnum {
+public enum TransactionStatusEnum {
     SUCCESS,
     FAILED,
     INPROGRESS,

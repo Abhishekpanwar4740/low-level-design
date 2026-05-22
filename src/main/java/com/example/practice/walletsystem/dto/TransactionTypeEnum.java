@@ -1,4 +1,8 @@
 package com.example.practice.walletsystem.dto;
 
-public enum TransanctionTypeEnum {
+public enum TransactionTypeEnum {
+    TOP_UP,
+    SEND,
+    RECEIVED,
+    WITHDRAW;
 }
